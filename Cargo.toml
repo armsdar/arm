@@ -1,0 +1,15 @@
+[package]
+name = "brc20"
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/ptechen"
+documentation = "https://docs.rs/brc20"
+repository = "https://github.com/ptechen/brc20.git"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "Brc20 lib"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bitcoincore-rpc = "0.18.0"
